@@ -43,4 +43,36 @@ nav li a{
  font-size:20px;
  font-weight: bold;
  color: aliceblue;
+ cursor: pointer;
+}
+#hero{
+    margin: 45px 30px 0px 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+#hero .banar_c h2{
+    font-size: 45px;
+    font-weight: 600;
+    color: rgb(26, 26, 26);
+    margin-bottom: 10px;
+}
+#hero .banar_c h1{
+    font-size: 65px;
+    font-weight: bold;
+    color: rgb(26, 26, 26);
+    margin-bottom: 15px;
+}
+#hero .banar_c p{
+    font-size: 25px;
+    color: rgb(26, 26, 26);
+    margin-bottom: 25px;
+    line-height: 30px;
+    
+
+}
+#banar .imag_b{
+    max-width: 585px;
+    vertical-align: middle;
 }
