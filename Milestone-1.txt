@@ -1,0 +1,16 @@
+Emphasis:
+<strong></strong>
+<em></em>
+Block:
+h1 to h6
+inline:
+emfasise,i,b,span
+target="_blank" দিলে সবসময় সাথে লিখবে → rel="noopener noreferrer"
+TRBL= margin
+echo "# Programing_Hero" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ahumayanahmed/Programing_Hero.git
+git push -u origin main
