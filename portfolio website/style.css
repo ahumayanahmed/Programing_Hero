@@ -76,3 +76,14 @@ nav li a{
     max-width: 585px;
     vertical-align: middle;
 }
+#about{
+    padding-top: 50px;
+}
+#about .section_h{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 110px 150px;
+}
